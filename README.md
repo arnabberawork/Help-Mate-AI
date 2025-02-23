@@ -11,6 +11,7 @@ Your AI-Powered Intelligent Search Assistant for Insurance Documents
 - [Technologies/Libraries Used](#technologieslibraries-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demonstration](#demonstration)
 - [Conclusions](#conclusions)
 - [Glossary](#glossary)
 - [Acknowledgements](#acknowledgements)
@@ -120,7 +121,7 @@ Combines semantic search and re-ranking to generate the final response for the i
 Generate a response using GPT-3.5's ChatCompletion based on the user query and retrieved information.
 
 ## Demonstration
-You can view the [demo materials](https://github.com/arnabberawork/Help-Mate-AI/tree/main/demo)
+You can view the [demo materials](https://github.com/arnabberawork/Help-Mate-AI/tree/main/Demo)
 
 ## Conclusions
 Generative Search Help Mate AI enhances document search accuracy by utilizing semantic search and re-ranking techniques. This project enables efficient retrieval of relevant information from large document repositories.
