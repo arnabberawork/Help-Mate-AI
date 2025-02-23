@@ -119,6 +119,9 @@ Combines semantic search and re-ranking to generate the final response for the i
 ### `generative_search(query, top_3_RAG)`
 Generate a response using GPT-3.5's ChatCompletion based on the user query and retrieved information.
 
+## Demonstration
+You can view the [demo materials](https://github.com/arnabberawork/Help-Mate-AI/tree/main/demo)
+
 ## Conclusions
 Generative Search Help Mate AI enhances document search accuracy by utilizing semantic search and re-ranking techniques. This project enables efficient retrieval of relevant information from large document repositories.
 
@@ -133,7 +136,6 @@ Generative Search Help Mate AI enhances document search accuracy by utilizing se
 - The project references presentations in upGrad’s recorded module given by [Akshay Ginodia](https://www.linkedin.com/in/akshay-ginodia-6a7094a3/).
 - The project references insights and inferences from presentations in upGrad’s doubt clear session given by [Shridhar Galande](https://www.linkedin.com/in/shridhar-galande/).
 - The project references presentations in upGrad's live class given by [Sheshanth AS](https://www.linkedin.com/in/sheshanthas/).
-
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.
